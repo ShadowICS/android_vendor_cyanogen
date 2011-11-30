@@ -8,7 +8,7 @@
 #add_lunch_combo cyanogen_captivatemtd-eng
 #add_lunch_combo cyanogen_coconut-eng
 #add_lunch_combo cyanogen_cooper-eng
-add_lunch_combo cyanogen_crespo-eng
+#add_lunch_combo cyanogen_crespo-eng
 #add_lunch_combo cyanogen_crespo4g-eng
 #add_lunch_combo cyanogen_desirec-eng
 #add_lunch_combo cyanogen_dream_sapphire-eng
@@ -47,7 +47,7 @@ add_lunch_combo cyanogen_crespo-eng
 #add_lunch_combo cyanogen_robyn-eng
 #add_lunch_combo cyanogen_saga-eng
 #add_lunch_combo cyanogen_satsuma-eng
-#add_lunch_combo cyanogen_shadow-eng
+add_lunch_combo cyanogen_shadow-eng
 #add_lunch_combo cyanogen_shakira-eng
 #add_lunch_combo cyanogen_sholes-eng
 #add_lunch_combo cyanogen_showcasemtd-eng
